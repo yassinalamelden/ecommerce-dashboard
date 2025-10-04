@@ -27,11 +27,14 @@ This dashboard provides real-time sales insights using an SQLite database (`ecom
 ## 🗂️ Project Structure
 ```bash
 ecommerce-dashboard/
-│
-├── app.py → Streamlit dashboard script
-├── ecommerce.db → SQLite database (with sample data)
-├── requirements.txt → Dependencies list
-└── README.md → Project documentation
+├─ app.py
+├─ data/
+│  ├─ ecommerce.db
+├─ assets/
+│  └─ demo-preview.png
+├─ README.md
+├─ requirements.txt
+└─ .gitignore
 ```
 
 ---
