@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 from pathlib import Path
 
-DB_PATH = Path(__file__).with_name("ecommerce_new.db")
+DB_PATH = Path(__file__).with_name("ecommerce.db")
 
 st.set_page_config(page_title="E-commerce Dashboard", layout="wide")
 st.title("📊 E-commerce Dashboard")
@@ -96,5 +96,6 @@ with tabs[2]:
                                 title="Sales Trend Over Time"))
     except Exception as e:
         st.error(f"Query failed: {e}")
+
 
 
