@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Dashboard
 
-An interactive **sales analytics dashboard** built with **Streamlit**, **SQLite**, and **Plotly** — visualize product performance, customer spending, and overall revenue trends in real time.
+An interactive **sales analytics dashboard** built with **Streamlit**, **SQLite**, and **Plotly** to visualize product performance, customer spending, and overall revenue trends in real time.
 
 ---
 
