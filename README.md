@@ -39,7 +39,7 @@ ecommerce-dashboard/
 
 ---
 
-## ⚙️ Installation & Setup
+## Option 1:⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
 ```bash
@@ -57,6 +57,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 Then open the local URL (usually http://localhost:8501) in your browser.
+
+## Option 2: 🚀 Live App (Streamlit Cloud)
+
+The dashboard is deployed on Streamlit Cloud.  
+Click below to open it in your browser:
+
+[Streamlit](https://ecommerce-dashboard-project.streamlit.app/)
 
 ---
 
