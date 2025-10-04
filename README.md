@@ -6,9 +6,9 @@ An interactive **sales analytics dashboard** built with **Streamlit**, **SQLite*
 
 ## 📊 Demo Preview
 
-> This dashboard provides real-time sales insights using an SQLite database (`ecommerce.db`) and visualizes the results through Streamlit and Plotly.
+This dashboard provides real-time sales insights using an SQLite database (`ecommerce.db`) and visualizes the results through Streamlit and Plotly.
 
-
+![E-commerce Dashboard Screenshot](demo-preview.png)
 
 > Example: Sales by Product section displaying total sales and units sold per product.
 
